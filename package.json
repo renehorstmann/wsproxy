@@ -1,0 +1,14 @@
+{
+  "name": "wsproxy",
+  "version": "1.0.0",
+  "main": "wsproxy.js",
+  "repository": "https://github.com/renehorstmann/wsproxy.git",
+  "author": "Rene Horstmann",
+  "license": "MIT",
+  "scripts": {
+    "start": "node wsproxy.js"
+  },
+  "dependencies": {
+    "ws": "^8.3.0"
+  }
+}
